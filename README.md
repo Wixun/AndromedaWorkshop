@@ -43,6 +43,8 @@ To interact with this marketplace, users need:
 3. **Complete Purchase**: Winning bidders can complete transactions and finalize the purchase through the smart contract.
 
 
+You can import this Flex file from the andromedaprotocol.io website to run the project.
+
 My Marketplace
 
 https://embeddables.testnet.andromedaprotocol.io/galileo-4/hexada-auction/embeddables-auction-1

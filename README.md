@@ -46,3 +46,5 @@ To interact with this marketplace, users need:
 My Marketplace
 
 https://embeddables.testnet.andromedaprotocol.io/galileo-4/hexada-auction/embeddables-auction-1
+
+![Ekran Alıntısı](https://github.com/user-attachments/assets/10ded463-c438-4936-8841-305fd137d115)

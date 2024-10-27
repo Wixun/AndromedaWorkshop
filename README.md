@@ -42,12 +42,7 @@ To interact with this marketplace, users need:
 2. **Bid on an Auction**: Place bids on products by following the on-screen instructions.
 3. **Complete Purchase**: Winning bidders can complete transactions and finalize the purchase through the smart contract.
 
-## Auction Types Supported
 
-- **English Auction**: Open bidding with the highest bid winning.
-- **Dutch Auction**: Prices decrease over time until a buyer accepts the price.
-- **Fixed Price Sale**: Buyers can directly purchase items at a set price.
+My Marketplace
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with any improvements or new features.
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/hexada-auction/embeddables-auction-1
